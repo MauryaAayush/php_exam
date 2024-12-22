@@ -86,9 +86,9 @@ project-root/
      ```php
      // config/database.php
      define('DB_HOST', 'localhost');
-     define('DB_NAME', 'your_database');
-     define('DB_USER', 'your_username');
-     define('DB_PASS', 'your_password');
+     define('DB_NAME', 'school');
+     define('DB_USER', 'root');
+     define('DB_PASS', '');
      ```
 
 3. **Server Configuration**
@@ -116,21 +116,36 @@ Detailed API documentation is available in the following formats:
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📺 Video Demonstrations
 
-## 📺 Video Demo
+### Project Implementation & Overview
+Watch our detailed video guides to better understand the project setup and implementation:
 
-A comprehensive video walkthrough covering:
-- API implementation details
-- Project structure overview
-- Testing procedures
+#### 1. Setup & Configuration Guide
+[![API Creation & Structure]](https://github.com/user-attachments/assets/3e69b5d4-2c69-4e6e-8bd8-a471603c1b2e)
 
-[Watch the Demo](#) (Coming Soon)
+This video covers:
+- Complete API creation process
+- Project folder structure explanation
+- Initial setup and configuration
+- Database schema implementation
+
+#### 2. Implementation & Testing Walkthrough
+[![Implementation & Testing]](https://github.com/user-attachments/assets/8735b481-1799-4248-85eb-5088c8b20dbd)
+
+
+
+This video demonstrates:
+- API endpoint implementation
+- Testing procedures using Postman
+- Error handling demonstrations
+- Real-world usage scenarios
+
+> 💡 **Tip**: Watch both videos in sequence for the best learning experience!
 
 ---
 
 <div align="center">
-Made with ❤️ by [Your Name]
+Made with ❤️ by Maurya Aayush
 </div>
