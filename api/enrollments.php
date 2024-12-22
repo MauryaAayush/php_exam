@@ -33,4 +33,5 @@ if ($_SERVER["REQUEST_METHOD"] == 'POST') {
     $response['error'] = 'Only POST and DELETE methods are allowed!';
 }
 
+
 echo json_encode($response);
