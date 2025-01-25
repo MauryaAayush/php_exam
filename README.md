@@ -2,6 +2,7 @@
 
 > A robust PHP-MySQL based RESTful API system for managing students, courses, and enrollments with comprehensive CRUD operations.
 
+
 ![PHP Version](https://img.shields.io/badge/PHP-7.4+-777BB4?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
